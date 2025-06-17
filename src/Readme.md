@@ -1,5 +1,3 @@
-Okay, here's a problem description for the coding challenge:
-
 **Problem Description: Order Summary Generation**
 
 You are given two lists of data: a list of `Product` objects and a list of `Order` objects. Your task is to process these lists and generate an order summary for each valid order.
